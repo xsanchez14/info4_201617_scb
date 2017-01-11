@@ -10,14 +10,14 @@
 
 	
 
-   <name>Pong SCB</name>
+   <name>PONG</name>
 
    <description>
-       Un pong fet per alumnes de 4t del Numància
+       Pong xuxurrio
     </description>
 
-    <author href="https://numancia.cat/intranet" email="sergi.curtu@numancia.cat">
-       Sergi Curtu
+    <author href="https://numancia.cat/intranet" email="xsanchez14@iesnumancia.cat">
+       Xavito SP
     </author>
 
 	<content src="index.html"/>
